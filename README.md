@@ -11,3 +11,4 @@
 
 
 
+1)**Collaborative Filtering** : Based on cosine similarity using KNN with the help of collaborative filtering
